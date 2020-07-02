@@ -7,7 +7,7 @@ const Constraint=Matter.Constraint;
 var slingshot,gameState;
 
 function preload(){
-	backgroundImg = loadImage("sprites/bg.png");
+	backgroundImg = loadImage("bg.png");
 }	
 	
 function setup() {
